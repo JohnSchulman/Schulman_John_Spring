@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="bitylike@localhost" uuid="61fcfb6a-7671-40dc-bcae-495f3c5416b5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/bitylike?useSSL=false&amp;useUnicode=yes&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="bitylike@localhost [2]" uuid="24c9d390-8259-440f-b03b-2d3ab07f90d4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/bitylike?useSSL=false&amp;useUnicode=yes&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
